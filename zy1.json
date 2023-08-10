@@ -1,10 +1,11 @@
 [
 {
-    "key": "Ìì¿ÕÔÆ",
+    "key": "å¤©ç©ºäº‘",
     "id": 1,
-    "name": "Ìì¿ÕÔÆ",
+    "name": "å¤©ç©ºäº‘",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
-    "group": "Ä¬ÈÏ",
+    "group": "é»˜è®¤",
     "isActive": true
   }
+]
