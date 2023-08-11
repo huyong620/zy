@@ -1,12 +1,10 @@
-[
-{
-    "id": 16,
-    "key": "天空云",
-    "name": "天空云",
-    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  }
-]
+[{
+	"id": 16,
+	"key": "天空云",
+	"name": "天空云",
+	"api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+	"download": "",
+	"group": "默认",
+	"isActive": true,
+	"status": "可用"
+}]
