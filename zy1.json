@@ -6,6 +6,7 @@
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
     "group": "默认",
-    "isActive": true
+    "isActive": true,
+    "status": "可用"
   }
 ]
